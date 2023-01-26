@@ -10,17 +10,17 @@
 
 ###I use all visuals for finding some insights from given dataset like
 
-###Following are some insights that i found from given data-
-###1)Average Revenue
-###2)ARPU (Average revenue per user)
-###3)monthly change in active users and unsubscribed users
-###4)Revenue wise Top and Bottom cities 
-###5) Location-wise unsub user % change
-###6) company wise (MS%) Market share percentage change
-###7) Internet plan-wise revenue
+### Following are some insights that i found from given data-
+### 1)Average Revenue
+### 2)ARPU (Average revenue per user)
+### 3)monthly change in active users and unsubscribed users
+### 4)Revenue wise Top and Bottom cities 
+### 5) Location-wise unsub user % change
+### 6) company wise (MS%) Market share percentage change
+### 7) Internet plan-wise revenue
 
-###Things that I learn from this project-
+### Things that I learn from this project-
 
-###-Understood some important points like MS%, Citywise change in unsubscribed users, active users, Network plans-wise change in revenue, and revenue-wise Top and bottom city.
-###-Here I got a better understanding of DAX measures  
-###-In a Dashboard, I use some bookmarks for better interaction with visuals and tried to use different visuals and background that enhance the design of the Dashboard.
+### -Understood some important points like MS%, Citywise change in unsubscribed users, active users, Network plans-wise change in revenue, and revenue-wise Top and bottom city.
+### -Here I got a better understanding of DAX measures  
+### -In a Dashboard, I use some bookmarks for better interaction with visuals and tried to use different visuals and background that enhance the design of the Dashboard.
