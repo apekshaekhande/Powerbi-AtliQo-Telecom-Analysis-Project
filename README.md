@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/113659344/214365342-41c270d4-ba57-4640-9dbc-1357802e5bf7.png)
 ![image](https://user-images.githubusercontent.com/113659344/214365599-7a47e6ce-07bc-4bd6-89fa-78451ce846d3.png)
 
-###I use all visuals for finding some insights from given dataset like
+### I use all visuals for finding some insights from given dataset like
 
 ### Following are some insights that i found from given data-
 ### 1)Average Revenue
