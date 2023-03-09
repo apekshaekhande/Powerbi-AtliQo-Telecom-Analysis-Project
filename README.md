@@ -25,4 +25,3 @@
 ### -Here I got a better understanding of DAX measures  
 ### -In a Dashboard, I use some bookmarks for better interaction with visuals and tried to use different visuals and background that enhance the design of the Dashboard.
 
-
