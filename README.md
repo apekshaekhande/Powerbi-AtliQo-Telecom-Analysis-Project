@@ -24,3 +24,5 @@
 ### -Understood some important points like MS%, Citywise change in unsubscribed users, active users, Network plans-wise change in revenue, and revenue-wise Top and bottom city.
 ### -Here I got a better understanding of DAX measures  
 ### -In a Dashboard, I use some bookmarks for better interaction with visuals and tried to use different visuals and background that enhance the design of the Dashboard.
+
+
